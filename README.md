@@ -1,0 +1,1 @@
+Django girsl blog tutorial
